@@ -1,0 +1,20 @@
+
+
+import Nav from 'react-bootstrap/Nav';
+import Container from 'react-bootstrap/Container';
+import Navbar from 'react-bootstrap/Navbar';
+
+function rodape (){
+    return(
+        <>
+      <Navbar bg="dark" data-bs-theme="dark">
+        <Container>
+          <Navbar.Brand href="#home">Front-End - SENAI - Maracanã</Navbar.Brand>
+          
+        </Container>
+      </Navbar>
+        </>
+    )
+
+}
+export default rodape
