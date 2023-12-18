@@ -22,3 +22,7 @@
 
 <br>
 
+## Roando o projeto:
+A o baixar o projeto dê um "npm install" dentro da pasta.
+Para rodar a plicação utilize o comando:
+"npm start"
