@@ -1,3 +1,5 @@
+## Projeto com base de estudos nas reuisições HTTP - CRUD 
+# Projeto feito nas aulas de FrontEnd Senai Maracanã!
 ## Projeto criado para estudos (CRUD, API), totalmente do zero, do figma ao código! 🔥
 
 
