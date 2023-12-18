@@ -1,8 +1,7 @@
 ## Projeto criado para estudos (CRUD, API), totalmente do zero, do figma ao código! 🔥
 
-# ➡️ [Cinemix](https://nobrupsiq.github.io/cinemix-purejs/)
 
-#### Cinemix se baseia em uma plataforma de cinema que simula o lado do administrador onde o mesmo poderá realizar os métodos:
+#### Cadastro de Funcionários que simula o lado do administrador onde o mesmo poderá realizar os métodos:
 
 -   GET = <i>Listar</i>
 -   POST = <i>Adicionar</i>
@@ -11,4 +10,4 @@
 
 ## Recursos
 
-> O sistema possui recursos para cadastrar, atualizar e remover filmes, combos e sessões.
+> O sistema possui recursos para listar sos funcionários, cadastrar, atualizar e remover.
