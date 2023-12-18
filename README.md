@@ -6,7 +6,7 @@ Nivaldo, Fulano, Ciclano, Beltrano.
 ## Projeto criado para estudos (CRUD, API), totalmente do zero, do figma ao código! 🔥
 
 
-#### Cadastro de Funcionários que simula o lado do administrador onde o mesmo poderá realizar os métodos:
+#### Cadastro de Funcionários que simula o lado do administrador onde o mesmo poderá realizar os métodos:🗃️
 
 -   GET = <i>Listar</i>
 -   POST = <i>Adicionar</i>
