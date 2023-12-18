@@ -13,3 +13,12 @@
 ## Recursos
 
 > O sistema possui recursos para listar sos funcionários, cadastrar, atualizar e remover.
+
+## Dependências
+
+[Node.js](https://nodejs.org/en/)
+
+[Json-Server](https://github.com/typicode/json-server) para o fake database em json.
+
+<br>
+
